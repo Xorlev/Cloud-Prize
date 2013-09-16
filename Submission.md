@@ -1,5 +1,3 @@
-Edit this page to describe your Submission.
-
 ## Which Categories Best Fit Your Submission and Why?
 ### Best New Feature
 Being able to dynamically change instanceUrlSuffixes and use Curator service discovery for Turbine is an easy win for many organizations that already run Zookeeper but don't necessarily want to or need to run Eureka.
