@@ -15,5 +15,5 @@ I added the ability for Turbine to be a little more flexible in terms of Hystrix
 The first instance discovery provider to take advantage of this is the ZookeeperInstanceDiscovery, I wrote this to work in concert with another piece of the puzzle, StormHystrix but will work with anything that uses Curator Service Discovery.
 
 ## Provide Links to Github Repo's for your Submission
-https://github.com/Netflix/Turbine/pull/19 (instanceUrlSuffix placeholders)
-https://github.com/Netflix/Turbine/pull/20 (ZookeeperInstanceDiscovery)
+* https://github.com/Netflix/Turbine/pull/19 (instanceUrlSuffix placeholders)
+* https://github.com/Netflix/Turbine/pull/20 (ZookeeperInstanceDiscovery)
